@@ -167,7 +167,7 @@ body {
 }
 
 .btn-primary {
-    background: linear-gradient(45deg, #ff6b35, #f7931e);
+    background: linear-gradient(45deg, #001F3F, #00BFFF);
     color: white;
     box-shadow: 0 10px 30px rgba(255, 107, 53, 0.3);
 }
@@ -175,18 +175,6 @@ body {
 .btn-primary:hover {
     transform: translateY(-3px);
     box-shadow: 0 15px 40px rgba(255, 107, 53, 0.4);
-}
-
-.btn-secondary {
-    background: transparent;
-    color: white;
-    border: 2px solid white;
-}
-
-.btn-secondary:hover {
-    background: white;
-    color: #333;
-    transform: translateY(-3px);
 }
 
 /* Content Sections */
