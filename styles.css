@@ -215,7 +215,7 @@ body {
 .service-icon {
     width: 60px;
     height: 60px;
-    background: linear-gradient(45deg, #ff6b35, #f7931e);
+    background: linear-gradient(45deg, #001F3F, #00BFFF);
     border-radius: 50%;
     margin: 0 auto 1rem;
     display: flex;
